@@ -1,6 +1,7 @@
 * {
   font-family: verdana;
 }
+
 body {
   background-color: black;
   text-align: center
@@ -31,7 +32,7 @@ a:hover {
   color: gray;
 }
 
-#copyright {
+footer {
   text-align: right;
   color: gray;
   font-size: 21px;
